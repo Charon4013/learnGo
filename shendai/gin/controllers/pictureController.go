@@ -1,9 +1,10 @@
 package controllers
 
 import (
-	"github.com/gin-gonic/gin"
 	"go-example/models"
 	"sync"
+
+	"github.com/gin-gonic/gin"
 )
 
 type PictureController interface {

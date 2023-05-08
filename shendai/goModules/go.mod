@@ -1,4 +1,4 @@
-module github.com/Pan/hello
+module shendai/go-modules
 
 go 1.18
 
